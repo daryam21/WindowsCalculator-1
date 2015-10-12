@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ahsan\Dropbox\Education\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
